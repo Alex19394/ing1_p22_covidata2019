@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="my_titre">COVIDATA 19</string>
+    <string name="my_pres">Our app revolves around the COVID 19 and help the user to access easily to a lots of data around this virus</string>
+    <string name="my_authors"> Axel Kaddouz \nQuention Albertus</string>
+    <string name="data">data</string>
+    <string name="graphic">graphic</string>
+    <string name="mystery">mystery</string>
+    <string name="total">TOTALS</string>
+    <string name="world">WORLD</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="country">Country</string>
+    <string name="usa">USA</string>
+    <string name="uk">UK</string>
+    <string name="brazil">Brazil</string>
+    <string name="russia">Russia</string>
+    <string name="india">India</string>
+    <string name="united_kingdom">United Kingdom</string>
+    <string name="spain">Spain</string>
+    <string name="italy">Italy</string>
+    <string name="peru">Peru</string>
+    <string name="france">France</string>
+    <string name="iran">Iran</string>
+    <string name="bycount">By Country</string>
+    <string name="chk">Check</string>
+    <string name="made">Made at EPITA</string>
+</resources>
